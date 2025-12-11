@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **react youtube clone**
 
-- 🌱 I’m currently learning **BackEnd Development**
+- 🌱 I’m currently expert in **BackEnd Development**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-iota-sepia-94.vercel.app/](https://myportfolio-iota-sepia-94.vercel.app/)
 
-- 💬 Ask me about **react, HTML, CSS, Javascript, Tailwindcss.**
+- 💬 Ask me about **Java, Spring Boot, react, HTML, CSS, Tailwindcss.**
 
 - 📫 How to reach me **vaibhavkjob8@gmail.com**
 
