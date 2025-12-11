@@ -41,17 +41,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 
-  <!-- Java Added -->
+  <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 
-  <!-- Spring Boot Added -->
+  <!-- Spring Boot -->
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
   </a>
 
-  <!-- JDBC Icon Not Available So Using Java Database Icon -->
+  <!-- Hibernate -->
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
+  </a>
+
+  <!-- JDBC -->
   <a href="https://www.oracle.com/database/technologies/appdev/jdbc.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="jdbc" width="40" height="40"/>
   </a>
