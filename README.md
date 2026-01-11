@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Vaibhav Shivaji Kandharkar</h1>
+<h1 align="center">Hi 👋, I'm Vaibhaav Shivaji Kandharkar</h1>
 <h3 align="center">A passionate frontend developer / Full Stack Java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/coding.gif"/>
 
